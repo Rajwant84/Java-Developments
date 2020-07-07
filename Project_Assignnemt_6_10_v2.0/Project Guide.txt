@@ -1,0 +1,7 @@
+
+
+Steps to run a file:
+>open cmd.exe
+>go to same location of java files
+>javac Project_6_10.java
+>Project_6_10.java
